@@ -29,3 +29,4 @@ Caching redirects for commonly used links.
 Connectivity to a full service database management system.
 Improving maximum origin URL capacity.
 Adding secure web implementations on production server.
+Optimize best coding practices for Python/Django framework.
