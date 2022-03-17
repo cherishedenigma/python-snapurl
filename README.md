@@ -23,9 +23,9 @@ Redirects to  https://www.google.com/search?q=dell+benefits
 
 Future Work:
 Additional features we can expect are: 
-Logging implementations
-Strict validation protocols and error handling
-Caching redirects for commonly used links
-Connectivity to a full service database management system
-Improving maximum origin URL capacity
-Adding secure web implementations on production server
+Logging implementations.
+Strict validation protocols and error handling.
+Caching redirects for commonly used links.
+Connectivity to a full service database management system.
+Improving maximum origin URL capacity.
+Adding secure web implementations on production server.
